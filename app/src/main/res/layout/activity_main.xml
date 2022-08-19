@@ -71,8 +71,8 @@
         android:layout_marginStart="98dp"
         android:layout_marginTop="46dp"
         android:onClick="Promediar"
-        android:text="Promediar"
-        android:textColorLink="#9F1515"
+        android:text="Promediar 2"
+        android:textColorLink="#4CAF50"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtNota4" />
 
@@ -83,7 +83,7 @@
         android:layout_marginStart="96dp"
         android:layout_marginTop="28dp"
         android:onClick="Mayor"
-        android:text="mayor"
+        android:text="mayor 2 "
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
@@ -94,7 +94,7 @@
         android:layout_marginStart="96dp"
         android:layout_marginTop="28dp"
         android:onClick="Menor"
-        android:text="Menor"
+        android:text=" Menor 2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
 
